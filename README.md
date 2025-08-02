@@ -167,7 +167,7 @@ pip install pandas numpy scikit-learn matplotlib seaborn joblib xgboost
 ## Usage
 Clone the repository:
 
-git clone https://github.com/your-username/HR-Employee-Attrition-Prediction.git
+git clone https://github.com/devansh-sharma15/HR-Employee-Attrition-Prediction.git
 cd HR-Employee-Attrition-Prediction
 
 Place the WA_Fn-UseC_-HR-Employee-Attrition.csv dataset in the project root directory.
